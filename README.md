@@ -1,6 +1,7 @@
 # ApiEx
 
-A new Flutter project.
+Project of a persian tutorial about how handle json response from API via JsonSerializable flutter package :
+Link : https://www.aparat.com/v/3VaQ2
 
 ## Getting Started
 
